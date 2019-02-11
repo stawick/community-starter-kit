@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+CONFIGS msg 0, 
+config msg 1, 
+config msg 2.
